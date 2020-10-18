@@ -1,3 +1,8 @@
+---
+layout: home
+title:  Homepage
+---
+
 ## Bio
 I am currently a fifth-year Ph.D. student advised by Prof. Zhi-Pei Liang and Prof. Thomas S. Huang.
 
