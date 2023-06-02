@@ -17,6 +17,7 @@ arXiv 2023 [[Paper]](https://arxiv.org/pdf/2303.10383.pdf)<br />
 Both static and moving objects usually exist in real-life videos. Most video object segmentation methods only focus on exacting and exploiting motion cues to perceive moving objects. In this paper, we propose a novel adaptive multi-source predictor for zero-shot video object segmentation. In the static object predictor, the RGB source is converted to depth and static saliency sources, simultaneously. In the moving object predictor, we propose the multi-source fusion structure. Furthermore, we design a feature purification module (FPM) to filter the inter-source incompatible features.<br />
 <img style="float:left;padding-right:20px;padding-top:10px;" width="600" src="/assets/papers/IJCVUVOS.png"><br />
 
+
 ## Education
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
 **Dalian University of Technology**<br />
