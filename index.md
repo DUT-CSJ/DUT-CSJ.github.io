@@ -36,11 +36,6 @@ MSc. of Information and Communication Engineering<br />
 Bachelor of Electronic Information Engineering<br />
 2018 - 2022<br style="clear:both" />
 
-## Professional Activities
-* Workshop organizer: [Large-scale Video Object Segmentation Challenge](https://youtube-vos.org/)
-* Conference reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, AAAI, WACV
-* Journal reviewer: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Multimedia
-
 ## Honors and Awards
 * 2021 Academic Excellence Scholarship
 * 2019 Academic Excellence Scholarship
