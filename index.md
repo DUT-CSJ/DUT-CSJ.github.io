@@ -37,5 +37,7 @@ Bachelor of Electronic Information Engineering<br />
 2018 - 2022<br style="clear:both" />
 
 ## Honors and Awards
+* 2023 3rd place in PVUW2023 VSS Track (**CVPR 2023** workshop challenge)
+* 2021 3rd place in the Hong Kong-Zhuhai-Macao Artificial Intelligence Developer Competition - Smoke Detection Track (10,000 RMB for third prize)
 * 2021 Academic Excellence Scholarship
 * 2019 Academic Excellence Scholarship
