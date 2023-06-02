@@ -6,6 +6,6 @@ organization: Dalian University of Technology
 email: csj@mail.dlut.edu.cn
 # google_scholar: https://scholar.google.com/citations?user=BlfdYL0AAAAJ
 # google_analytics: UA-180788274-1
-# theme: jekyll-theme-primer
+theme: jekyll-theme-primer
 repository: DUT-CSJ/DUT-CSJ.github.io
-private: true
+private: False
