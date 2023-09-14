@@ -24,6 +24,11 @@ arXiv 2023 [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://gith
 
 Brief introduction: 3rd Place Solution for PVUW2023 VSS(Video Object Segmentation) Track, 64.84% mIoU on VSPW final test set.
 
+**Tracking Anything in High Quality**<br />
+Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
+arXiv 2023 [[Paper]](https://arxiv.org/pdf/2307.13974) [[Code]](https://github.com/jiawen-zhu/HQTrack)<br />
+
+Brief introduction: 2nd place in in the Visual Object Tracking and Segmentation (VOTS2023) challenge.
 
 ## Education
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
@@ -39,6 +44,7 @@ Bachelor of Electronic Information Engineering<br />
 ## Honors and Awards
 * 2023 2nd place in in the Visual Object Tracking and Segmentation (VOTS2023) challenge (**ICCV 2023** workshop challenge)
 * 2023 3rd place in PVUW2023 VSS Track (**CVPR 2023** workshop challenge)
+* 2022 2nd place in Glaucoma Oct Analysis and Layer Segmentation (GOALS) challenge (**MICCAI 2022** workshop challenge)
 * 2021 3rd place in the Hong Kong-Zhuhai-Macao Artificial Intelligence Developer Competition - Smoke Detection Track (10,000 RMB for third prize)
 * 2021 Academic Excellence Scholarship
 * 2019 Academic Excellence Scholarship
