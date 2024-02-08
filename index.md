@@ -23,7 +23,7 @@ Brief introduction: Both static and moving objects usually exist in real-life vi
 arXiv 2023 [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
 \*: equal contributation
 
-Brief introduction: 3rd Place Solution for PVUW2023 VSS(Video Object Segmentation) Track, 64.84% mIoU on VSPW final test set.
+Brief introduction: 3rd Place Solution for PVUW2023 VSS(Video Semantic Segmentation) Track, 64.84% mIoU on VSPW final test set.
 
 **Tracking Anything in High Quality**<br />
 Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
