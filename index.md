@@ -4,33 +4,36 @@ title:  Homepage
 ---
 
 ## Bio
-I am currently a first-year MSc. student advised by Prof. Lihe Zhang.
+I am currently a second-year MSc. student advised by Prof. Lihe Zhang.
 
 My research interests include video object segmentation and few-shot segmentation.
 
 ## Publications
 
+**Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation**<br />
+**Shijie Chang\***, Youwei Pang\*, Xiaoqi Zhao\*, Lihe Zhang, Huchuan Lu<br />
+under review [[Paper]](https://arxiv.org/pdf/2407.11503)<br /> \*: equal contributation
+
 **Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**<br />
 Xiaoqi Zhao\*, **Shijie Chang\***, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu<br />
 IJCV 2024 [[Paper]](https://arxiv.org/pdf/2303.10383.pdf)<br /> \*: equal contributation
-<img style="float:left;padding-right:20px;padding-top:10px;" width="600" src="/assets/papers/IJCVUVOS.png"><br />
-<br clear="left" />
-Brief introduction: Both static and moving objects usually exist in real-life videos. Most video object segmentation methods only focus on exacting and exploiting motion cues to perceive moving objects. In this paper, we propose a novel adaptive multi-source predictor for zero-shot video object segmentation. In the static object predictor, the RGB source is converted to depth and static saliency sources, simultaneously. In the moving object predictor, we propose the multi-source fusion structure. Furthermore, we design a feature purification module (FPM) to filter the inter-source incompatible features.<br />
 
 **3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**<br />
 **Shijie Chang\***, Zeqi Hao\*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu<br />
 arXiv 2023 [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
 \*: equal contributation
 
-Brief introduction: 3rd Place Solution for PVUW2023 VSS(Video Semantic Segmentation) Track, 64.84% mIoU on VSPW final test set.
-
 **Tracking Anything in High Quality**<br />
 Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
 arXiv 2023 [[Paper]](https://arxiv.org/pdf/2307.13974) [[Code]](https://github.com/jiawen-zhu/HQTrack)<br />
 
-Brief introduction: 2nd place in in the Visual Object Tracking and Segmentation (VOTS2023) challenge.
 
 ## Education
+<img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
+**Dalian University of Technology**<br />
+PhD. of Information and Communication Engineering<br />
+2024 - Present<br style="clear:both" />
+
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
 **Dalian University of Technology**<br />
 MSc. of Information and Communication Engineering<br />
