@@ -4,11 +4,15 @@ title:  Homepage
 ---
 
 ## Bio
-I am currently a second-year MSc. student advised by Prof. Lihe Zhang.
+I am currently a first-year PhD. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
 
 My research interests include video object segmentation and few-shot segmentation.
 
 ## Publications
+
+**High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study**<br />
+**Shijie Chang**, Lihe Zhang, Huchuan Lu<br />
+under review [[Paper]](https://arxiv.org/pdf/2409.06305) [[Code]](https://github.com/DUT-CSJ/FoundationFSS)<br />
 
 **Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation**<br />
 **Shijie Chang\***, Youwei Pang\*, Xiaoqi Zhao\*, Lihe Zhang, Huchuan Lu<br />
