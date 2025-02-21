@@ -12,20 +12,20 @@ My research interests include video object segmentation and few-shot segmentatio
 
 **High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study**<br />
 **Shijie Chang**, Lihe Zhang, Huchuan Lu<br />
-under review [[Paper]](https://arxiv.org/pdf/2409.06305) [[Code]](https://github.com/DUT-CSJ/FoundationFSS)<br />
+arXiv 2024 [[Paper]](https://arxiv.org/pdf/2409.06305) [[Code]](https://github.com/DUT-CSJ/FoundationFSS)<br />
 
 **Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation**<br />
 **Shijie Chang\***, Youwei Pang\*, Xiaoqi Zhao\*, Lihe Zhang, Huchuan Lu<br />
-under review [[Paper]](https://arxiv.org/pdf/2407.11503)<br /> \*: equal contributation
+under review [[Paper]](https://arxiv.org/pdf/2407.11503) [[Code]](https://github.com/DUT-CSJ/PR-UniFSS)<br /> \*: equal contribution
 
 **Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**<br />
 Xiaoqi Zhao\*, **Shijie Chang\***, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu<br />
-IJCV 2024 [[Paper]](https://arxiv.org/pdf/2303.10383.pdf)<br /> \*: equal contributation
+IJCV 2024 [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02024-8)<br /> \*: equal contributation
 
 **3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**<br />
 **Shijie Chang\***, Zeqi Hao\*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu<br />
 arXiv 2023 [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
-\*: equal contributation
+\*: equal contribution
 
 **Tracking Anything in High Quality**<br />
 Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
