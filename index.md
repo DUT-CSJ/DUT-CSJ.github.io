@@ -6,9 +6,13 @@ title:  Homepage
 ## Bio
 I am currently a first-year PhD. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
 
-My research interests include video object segmentation and few-shot segmentation.
+My research interests include image/video segmentation and medical image analysis.
 
 ## Publications
+
+**Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
+**Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
+CVPR 2025<br />
 
 **High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study**<br />
 **Shijie Chang**, Lihe Zhang, Huchuan Lu<br />
