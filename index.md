@@ -8,6 +8,8 @@ I am currently a first-year PhD. student supervised by Prof. Lihe Zhang and Prof
 
 My research interests include image/video segmentation and medical image analysis.
 
+In 2025, I will study AI for Crystal Structure Prediction at the Dalian Institute of Chemical Physics, supervised by [Prof. Peng Guo](https://www.x-mol.com/groups/guo_peng/people/35248).
+
 ## Publications
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
