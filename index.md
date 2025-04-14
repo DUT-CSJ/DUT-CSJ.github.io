@@ -22,7 +22,7 @@ arXiv 2024 [[Paper]](https://arxiv.org/pdf/2409.06305) [[Code]](https://github.c
 
 **Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation**<br />
 **Shijie Chang\***, Youwei Pang\*, Xiaoqi Zhao\*, Lihe Zhang, Huchuan Lu<br />
-Pattern Recognition (PR) 2025 [[Paper]](https://arxiv.org/pdf/2407.11503) [[Code]](https://github.com/DUT-CSJ/PR-UniFSS)<br /> \*: equal contribution
+Pattern Recognition (PR) 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032500295X) [[Code]](https://github.com/DUT-CSJ/PR-UniFSS)<br /> \*: equal contribution
 
 **Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**<br />
 Xiaoqi Zhao\*, **Shijie Chang\***, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu<br />
