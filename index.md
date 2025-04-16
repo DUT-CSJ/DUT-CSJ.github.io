@@ -40,7 +40,7 @@ arXiv 2023 [[Paper]](https://arxiv.org/pdf/2307.13974) [[Code]](https://github.c
 
 ## Education
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
-**Dalian University of Technology**<br />
+**Dalian University of Technology** and **Dalian Institute of Chemical Physics**<br />
 PhD. of Information and Communication Engineering<br />
 2024 - Present<br style="clear:both" />
 
