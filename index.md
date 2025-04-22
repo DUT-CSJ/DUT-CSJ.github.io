@@ -26,7 +26,7 @@ Pattern Recognition (PR) 2025 [[Paper]](https://www.sciencedirect.com/science/ar
 
 **Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**<br />
 Xiaoqi Zhao\*, **Shijie Chang\***, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu<br />
-International Journal of Computer Vision (IJCV) 2024 [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02024-8)<br /> \*: equal contributation
+International Journal of Computer Vision (IJCV) 2024 [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02024-8) [[Code]](https://github.com/DUT-CSJ/Multi-Source-APS-ZVOS)<br /> \*: equal contributation
 
 **3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**<br />
 **Shijie Chang\***, Zeqi Hao\*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu<br />
