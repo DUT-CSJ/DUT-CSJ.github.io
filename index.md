@@ -30,12 +30,12 @@ International Journal of Computer Vision (IJCV) 2024 [[Paper]](https://link.spri
 
 **3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**<br />
 **Shijie Chang\***, Zeqi Hao\*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu<br />
-arXiv 2023 [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
+CVPR 2023 Workshop Technical Report [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
 \*: equal contribution
 
 **Tracking Anything in High Quality**<br />
 Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
-arXiv 2023 [[Paper]](https://arxiv.org/pdf/2307.13974) [[Code]](https://github.com/jiawen-zhu/HQTrack)<br />
+ICCV 2023 Workshop Technical Report [[Paper]](https://arxiv.org/pdf/2307.13974) [[Code]](https://github.com/jiawen-zhu/HQTrack)<br />
 
 
 ## Education
