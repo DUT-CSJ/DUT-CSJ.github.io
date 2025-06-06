@@ -14,7 +14,7 @@ In 2025, I will study AI for Crystal Structure Prediction at the Dalian Institut
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
-CVPR 2025<br />
+Computer Vision and Pattern Recognition (CVPR) 2025 [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)<br />
 
 **High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study**<br />
 **Shijie Chang**, Lihe Zhang, Huchuan Lu<br />
