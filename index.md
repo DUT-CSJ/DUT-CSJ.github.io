@@ -12,6 +12,10 @@ In 2025, I will study AI for Crystal Structure Prediction at the Dalian Institut
 
 ## Publications
 
+**UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model**<br />
+Yilong Hu, **Shijie Chang**, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu<br />
+Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025<br />
+
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
 Computer Vision and Pattern Recognition (CVPR) 2025 [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)<br />
