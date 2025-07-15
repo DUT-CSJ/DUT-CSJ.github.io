@@ -25,17 +25,17 @@ Computer Vision and Pattern Recognition (CVPR) 2025 [[Paper]](https://openaccess
 arXiv 2024 [[Paper]](https://arxiv.org/pdf/2409.06305) [[Code]](https://github.com/DUT-CSJ/FoundationFSS)<br />
 
 **Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation**<br />
-**Shijie Chang\***, Youwei Pang\*, Xiaoqi Zhao\*, Lihe Zhang, Huchuan Lu<br />
-Pattern Recognition (PR) 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032500295X) [[Code]](https://github.com/DUT-CSJ/PR-UniFSS)<br /> \*: equal contribution
+**Shijie Chang**, Youwei Pang, Xiaoqi Zhao, Lihe Zhang, Huchuan Lu<br />
+Pattern Recognition (PR) 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032500295X) [[Code]](https://github.com/DUT-CSJ/PR-UniFSS)<br />
 
 **Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation**<br />
 Xiaoqi Zhao\*, **Shijie Chang\***, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu<br />
-International Journal of Computer Vision (IJCV) 2024 [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02024-8) [[Code]](https://github.com/DUT-CSJ/Multi-Source-APS-ZVOS)<br /> \*: equal contributation
+International Journal of Computer Vision (IJCV) 2024 [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02024-8) [[Code]](https://github.com/DUT-CSJ/Multi-Source-APS-ZVOS)<br /> \*: co-first author
 
 **3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**<br />
 **Shijie Chang\***, Zeqi Hao\*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu<br />
 CVPR 2023 Workshop Technical Report [[Paper]](https://arxiv.org/pdf/2306.02291.pdf) [[Code]](https://github.com/DUT-CSJ/PVUW2023-VSS-3rd)<br />
-\*: equal contribution
+\*: co-first author
 
 **Tracking Anything in High Quality**<br />
 Jiawen Zhu, Zhenyu Chen, Zeqi Hao, **Shijie Chang**, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li<br />
