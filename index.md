@@ -4,11 +4,11 @@ title:  Homepage
 ---
 
 ## Bio
-I am currently a first-year PhD. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
+I am currently a second-year PhD. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
 
 My research interests include image/video segmentation and medical image analysis.
 
-In 2025, I will study AI for Crystal Structure Prediction at the Dalian Institute of Chemical Physics, supervised by [Prof. Peng Guo](https://www.x-mol.com/groups/guo_peng/people/35248).
+In 2025, I am studying AI for Crystal Structure Determination at the Dalian Institute of Chemical Physics, supervised by [Prof. Peng Guo](https://www.x-mol.com/groups/guo_peng/people/35248).
 
 ## Publications
 
@@ -51,7 +51,7 @@ PhD. of Information and Communication Engineering<br />
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
 **Dalian University of Technology**<br />
 MSc. of Information and Communication Engineering<br />
-2022 - Present<br style="clear:both" />
+2022 - 2024<br style="clear:both" />
 
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
 **Dalian University of Technology**<br />
