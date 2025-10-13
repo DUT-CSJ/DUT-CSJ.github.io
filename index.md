@@ -12,78 +12,13 @@ In 2025, I am studying AI for Crystal Structure Determination at the Dalian Inst
 
 ## Publications
 
-<div class="publications">
-
-<div class="paper-item">
-<p class="paper-title"><strong>UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model</strong></p>
-<p class="paper-author">Yilong Hu, <strong>Shijie Chang</strong>, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu</p>
-<p class="paper-conf">Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025</p>
-</div>
-
-<div class="paper-item">
-<p class="paper-title"><strong>Unified Medical Lesion Segmentation via Self-referring Indicator</strong></p>
-<p class="paper-author"><strong>Shijie Chang</strong>, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang</p>
-<p class="paper-conf">Computer Vision and Pattern Recognition (CVPR) 2025</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf" target="_blank">[Paper]</a></span>
-</p>
-</div>
-
-<div class="paper-item">
-<p class="paper-title"><strong>High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study</strong></p>
-<p class="paper-author"><strong>Shijie Chang</strong>, Lihe Zhang, Huchuan Lu</p>
-<p class="paper-conf">arXiv 2024</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://arxiv.org/pdf/2409.06305" target="_blank">[Paper]</a></span>
-<span class="tag-link"><a href="https://github.com/DUT-CSJ/FoundationFSS" target="_blank">[Code]</a></span>
-</p>
-</div>
-
-<div class="paper-item">
-<p class="paper-title"><strong>Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation</strong></p>
-<p class="paper-author"><strong>Shijie Chang</strong>, Youwei Pang, Xiaoqi Zhao, Lihe Zhang, Huchuan Lu</p>
-<p class="paper-conf">Pattern Recognition (PR) 2025</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://www.sciencedirect.com/science/article/pii/S003132032500295X" target="_blank">[Paper]</a></span>
-<span class="tag-link"><a href="https://github.com/DUT-CSJ/PR-UniFSS" target="_blank">[Code]</a></span>
-</p>
-</div>
-
-<div class="paper-item">
-<p class="paper-title"><strong>Adaptive Multi-source Predictor for Zero-shot Video Object Segmentation</strong></p>
-<p class="paper-author">Xiaoqi Zhao*, <strong>Shijie Chang*</strong>, Youwei Pang, Jiaxing Yang, Lihe Zhang, Huchuan Lu</p>
-<p class="paper-conf">International Journal of Computer Vision (IJCV) 2024</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://link.springer.com/article/10.1007/s11263-024-02024-8" target="_blank">[Paper]</a></span>
-<span class="tag-link"><a href="https://github.com/DUT-CSJ/Multi-Source-APS-ZVOS" target="_blank">[Code]</a></span>
-</p>
-</div> <!-- End of paper item, *: co-first author -->
-
-<div class="paper-item">
-<p class="paper-title"><strong>3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW</strong></p>
-<p class="paper-author"><strong>Shijie Chang*</strong>, Zeqi Hao*, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu</p>
-<p class="paper-conf">CVPR 2023 Workshop Technical Report</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://arxiv.org/pdf/2306.02291.pdf" target="_blank">[Paper]</a></span>
-<span class="tag-link"><a href="https://github.com/DUT-CSJ/PVUW2023-VSS-3rd" target="_blank">[Code]</a></span>
-</p>
-</div> <!-- End of paper item, \*: co-first author -->
-
-<div class="paper-item">
-<p class="paper-title"><strong>Tracking Anything in High Quality</strong></p>
-<p class="paper-author">Jiawen Zhu, Zhenyu Chen, Zeqi Hao, <strong>Shijie Chang</strong>, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li</p>
-<p class="paper-conf">ICCV 2023 Workshop Technical Report</p>
-<p class="paper-info">
-<span class="tag-link"><a href="https://arxiv.org/pdf/2307.13974" target="_blank">[Paper]</a></span>
-<span class="tag-link"><a href="https://github.com/jiawen-zhu/HQTrack" target="_blank">[Code]</a></span>
-</p>
-</div>
-
-</div> <!-- End of publications div -->
+**MedSegFM: A Generative Perspective for Lesion Segmentation via Flow Matching**<br />
+**Shijie Chang**, Yilong Hu, Lihe Zhang, Zechen Liu, Huchuan Lu<br />
+Under Review.
 
 **UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model**<br />
 Yilong Hu, **Shijie Chang**, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu<br />
-Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025<br />
+Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_63)<br />
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
