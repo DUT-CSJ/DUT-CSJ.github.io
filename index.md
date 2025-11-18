@@ -62,6 +62,10 @@ MSc. of Information and Communication Engineering<br />
 Bachelor of Electronic Information Engineering<br />
 2018 - 2022<br style="clear:both" />
 
+## Academic Service
+* Journal Reviewer: IJCV
+* Conference Reviewer: AAAI
+
 ## Honors and Awards
 * 2023 2nd place in in the Visual Object Tracking and Segmentation (VOTS2023) challenge (**ICCV 2023** workshop challenge)
 * 2023 3rd place in PVUW2023 VSS Track (**CVPR 2023** workshop challenge)
