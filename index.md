@@ -4,7 +4,7 @@ title:  Homepage
 ---
 
 ## Bio
-I am currently a second-year PhD. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
+I am currently a second-year Ph.D. student supervised by Prof. Lihe Zhang and Prof. Huchuan Lu.
 
 My research interests include image/video segmentation and medical image analysis.
 
@@ -22,7 +22,7 @@ Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
-Computer Vision and Pattern Recognition (CVPR) 2025 [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)<br />
+Computer Vision and Pattern Recognition (CVPR) 2025 [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf) [[Code]](https://github.com/DUT-CSJ/SR-ICL)<br />
 
 **High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study**<br />
 **Shijie Chang**, Lihe Zhang, Huchuan Lu<br />
@@ -48,7 +48,7 @@ ICCV 2023 Workshop Technical Report [[Paper]](https://arxiv.org/pdf/2307.13974) 
 
 ## Education
 <img style="float:left;padding-right:20px;" width="100" src="/assets/orgs/dut.png">
-**Dalian University of Technology** and **Dalian Institute of Chemical Physics**<br />
+**Dalian University of Technology**<br />
 PhD. of Information and Communication Engineering<br />
 2024 - Present<br style="clear:both" />
 
