@@ -63,7 +63,7 @@ Bachelor of Electronic Information Engineering<br />
 2018 - 2022<br style="clear:both" />
 
 ## Academic Service
-* Journal Reviewer: IJCV
+* Journal Reviewer: IJCV, PR
 * Conference Reviewer: AAAI
 
 ## Honors and Awards
