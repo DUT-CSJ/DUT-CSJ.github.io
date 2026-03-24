@@ -18,7 +18,7 @@ Under Review.
 
 **UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model**<br />
 Yilong Hu, **Shijie Chang**, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu<br />
-Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_63)<br />
+Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_63) [[Code]](https://github.com/HUYILONG-Z/UniSegDiff)<br />
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
