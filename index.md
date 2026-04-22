@@ -14,7 +14,7 @@ In 2025, I am studying AI for Crystal Structure Determination at the Dalian Inst
 
 **MedSegFM: A Generative Perspective for Lesion Segmentation via Flow Matching**<br />
 **Shijie Chang**, Yilong Hu, Lihe Zhang, Zechen Liu, Huchuan Lu<br />
-Under Review.
+International Journal of Computer Vision (IJCV) 2026
 
 **UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model**<br />
 Yilong Hu, **Shijie Chang**, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu<br />
