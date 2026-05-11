@@ -8,17 +8,17 @@ I am currently a second-year Ph.D. student supervised by Prof. Lihe Zhang and Pr
 
 My research interests include image/video segmentation and medical image analysis.
 
-In 2025, I am studying AI for Crystal Structure Determination at the Dalian Institute of Chemical Physics, supervised by [Prof. Peng Guo](https://www.x-mol.com/groups/guo_peng/people/35248).
+~~In 2025, I am studying AI for Crystal Structure Determination at the Dalian Institute of Chemical Physics, supervised by [Prof. Peng Guo](https://www.x-mol.com/groups/guo_peng/people/35248).~~
 
 ## Publications
 
 **MedSegFM: A Generative Perspective for Lesion Segmentation via Flow Matching**<br />
 **Shijie Chang**, Yilong Hu, Lihe Zhang, Zechen Liu, Huchuan Lu<br />
-International Journal of Computer Vision (IJCV) 2026
+International Journal of Computer Vision (IJCV) 2026 [[Paper]](https://link.springer.com/article/10.1007/s11263-026-02863-7) [[Code]](https://github.com/HUYILONG-Z/UniSegDiff)<br />
 
 **UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model**<br />
 Yilong Hu, **Shijie Chang**, Lihe Zhang, Feng Tian, Weibing Sun, Huchuan Lu<br />
-Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_63) [[Code]](https://github.com/HUYILONG-Z/UniSegDiff)<br />
+Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_63) [[Code]]((https://github.com/DUT-CSJ/MedSegFM)<br />
 
 **Unified Medical Lesion Segmentation via Self-referring Indicator**<br />
 **Shijie Chang**, Xiaoqi Zhao, Lihe Zhang, Tiancheng Wang<br />
